@@ -45,8 +45,6 @@ cd python
 # モデル作成（onnxscriptでONNXモデルを作成）
 uv run 01_Conv_export.py
 
-# 推論実行
-uv run 01_Conv_inference.py
 ```
 
 他のオペレータも同様です（例：`uv run 14_Softmax_export.py`）
