@@ -1,0 +1,23 @@
+onnx-helper:»
+4
+input
+splitoutput1output2"Split*
+axis split_model*:BsplitZ
+input
+
+
+
+ 
+ b!
+output1
+
+
+
+ 
+ b!
+output2
+
+
+
+ 
+ B
